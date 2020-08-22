@@ -1,6 +1,6 @@
 ## [Open] Shopee Code League - Marketing Analytics
 
-Overview: This repository stores the code for the Shopee Code League - Marketing Analytics Competition hosted on Kaggle. Also, this is my first attempt at applying hyperparameter optimisation.
+Overview: This repository stores the code for the Shopee Code League - Marketing Analytics Competition hosted on Kaggle. Also, this is my first attempt at applying hyperparameter optimisation using python.
 
 Competition Link: https://www.kaggle.com/c/open-shopee-code-league-marketing-analytics
 
